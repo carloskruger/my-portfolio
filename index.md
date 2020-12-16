@@ -8,34 +8,10 @@ Node|Javascript|Express|React|Redux|Java|Spring|SQL|PostgreSQL|Python
 
 ### Projects
 
-[Trip Planner Project](http://tripplanneronline.com/)
+[Trip Planner Project](http://tripplanneronline.com/) is a project that can help you plan a trip by holding information relevant to the trip such as notes or pictures. You need to sign in. It was created with a node express back-end. It uses React and Redux in the front end and a PostgreSQL database.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Contact
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/carloskruger/my-portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+My email is: carloskr@yahoo.com
