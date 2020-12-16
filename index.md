@@ -2,7 +2,7 @@
 
 My name is Carlos Kruger. 
 
-[This is a link to my GitHub repository] (https://github.com/carloskruger)
+[This is a link to my GitHub repository](https://github.com/carloskruger)
 
 ## Skills
 
