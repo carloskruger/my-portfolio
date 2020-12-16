@@ -1,13 +1,14 @@
 ## Welcome to my Portfolio
 
-My name is Carlos Kruger and I am a software developer.
+My name is Carlos Kruger. 
 
 ## Skills
 
-Node|Javascript|Express|React|Redux|Java|Spring|SQL
-PostgreSQL
+Node|Javascript|Express|React|Redux|Java|Spring|SQL|PostgreSQL|Python
 
-### Markdown
+### Projects
+
+[Trip Planner Project](http://tripplanneronline.com/)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
