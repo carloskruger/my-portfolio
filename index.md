@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to my Portfolio
 
-You can use the [editor on GitHub](https://github.com/carloskruger/my-portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Carlos Kruger and I am a software developer.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Skills
+
+Node|Javascript|Express|React|Redux|Java|Spring|SQL
+PostgreSQL
 
 ### Markdown
 
