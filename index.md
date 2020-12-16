@@ -1,6 +1,8 @@
 ## Welcome to my Portfolio
 
-My name is Carlos Kruger. [This is a link to my GitHub repository] (https://github.com/carloskruger)
+My name is Carlos Kruger. 
+
+[This is a link to my GitHub repository] (https://github.com/carloskruger)
 
 ## Skills
 
