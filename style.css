@@ -5,6 +5,7 @@ body {
     font-size: 1.5em;
     margin: 10px;
     color: white;
+    margin-left: 40px;
 
 }
 
@@ -68,6 +69,7 @@ a:hover {
 
     body {
         font-size: 1em; 
+    
 
     }
 
