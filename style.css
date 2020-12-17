@@ -14,12 +14,15 @@ h1 {
     margin: auto;
     text-align: center;
     color: blue;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 h2 {
     font-size: 2em;
     font-weight: bold;
     color: blue;
+    margin-top: 20px;
     margin-bottom: 20px;
 }
 
@@ -35,13 +38,26 @@ a:hover {
 .bigContainer {
     display: flex;
     flex-direction: column;
-    justify-content: space-around;
-    height: 100vh;
+    justify-content: space-between;
+    height: 90vh;
     width: 90vw;
 
 
 }
 
+.about {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.aboutpicture {
+    width: 30vw;
+}
+
+.abouttext {
+    width: 70vw;
+}
 @media screen and (max-width: 800px) {
     h1 {
         font-size: 2em;
@@ -53,5 +69,9 @@ a:hover {
     body {
         font-size: 1em; 
 
+    }
+
+    .about {
+        flex-direction: column;
     }
 }
